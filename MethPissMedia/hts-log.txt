@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 20 Jun 2024 17:08:28 at http://methpissmedia.my.canva.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://methpissmedia.my.canva.site/ -O1 "C:\Users\GuruGary\Desktop\MethPissMedia" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:08:28	Warning: 	Moved Permanently for methpissmedia.my.canva.site/robots.txt
+17:08:28	Warning: 	Redirected link is identical because of 'URL Hack' option: methpissmedia.my.canva.site/robots.txt and https://methpissmedia.my.canva.site/robots.txt
+17:08:28	Warning: 	Warning moved treated for methpissmedia.my.canva.site/robots.txt (real one is https://methpissmedia.my.canva.site/robots.txt)
+17:08:29	Warning: 	Moved Permanently for methpissmedia.my.canva.site/
+17:08:29	Warning: 	Redirected link is identical because of 'URL Hack' option: methpissmedia.my.canva.site/ and https://methpissmedia.my.canva.site/
+17:08:29	Warning: 	File has moved from methpissmedia.my.canva.site/ to https://methpissmedia.my.canva.site/
+17:08:29	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

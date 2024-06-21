@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:08:28	167/167	---M--	301	error ('Moved%20Permanently')	text/html	date:Thu,%2020%20Jun%202024%2021:08:28%20GMT	http://methpissmedia.my.canva.site/robots.txt		(from )
+17:08:29	167/167	---M--	301	error ('Moved%20Permanently')	text/html	date:Thu,%2020%20Jun%202024%2021:08:28%20GMT	http://methpissmedia.my.canva.site/	C:/Users/GuruGary/Desktop/MethPissMedia/methpissmedia.my.canva.site/index.html	(from )
